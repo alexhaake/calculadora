@@ -236,7 +236,7 @@ class MainActivity() : AppCompatActivity() , View.OnClickListener {
             R.id.igual -> {
                 var par= resultado.split("+","-","*","/");
                 
-
+                //alsdasdn
                 if(resultado.contains("+")){
                     suma(resultado);
                 }
