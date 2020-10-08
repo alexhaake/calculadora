@@ -231,7 +231,7 @@ class MainActivity() : AppCompatActivity() , View.OnClickListener {
             R.id.punto -> {
                 resultado = resultado + punto?.text
                 textonumeros.setText(resultado)
-                //
+                //asdasd
             }
             R.id.igual -> {
                 var par= resultado.split("+","-","*","/");
